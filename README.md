@@ -2,6 +2,12 @@
 
 ### http://online-my-shop.surge.sh/
 
+_**----- Pic Home page-----**_<br />
+![input](imag/cart1.png)
+
+_**----- Pic Cart Page-----**_<br />
+![input](imag/cart2.png)
+
 ### How to Use this
 1. 1st download this repo as zip
 2. Unzip the file 
